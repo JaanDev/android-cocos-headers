@@ -1,5 +1,5 @@
 # android-cocos-headers
-Cocos headers for Android GD Modding. Taken from iAndyHD3's [repo](https://github.com/iAndyHD3/gd-mod-example-android) and made a separate repo for convenience. The original headers seem to belong to [IAD](https://github.com/ItalianApkDownloader) but I'm not sure.
+Cocos headers for Android GD Modding. Taken from iAndyHD3's [repo](https://github.com/iAndyHD3/gd-mod-example-android) and made a separate repo for convenience. The original headers belong to [IAD](https://github.com/ItalianApkDownloader).
 
 ## Usage
 1. It's recommended to add this as a submodule like this:<br>`git submodule add https://github.com/JaanDev/android-cocos-headers.git libs/cocos2d`
